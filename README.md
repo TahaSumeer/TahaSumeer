@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages&Frameworks&Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,git,python,html,css,flask,vscode,github,aws," />
-    <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,grafana," /><br>
+    <img src="https://skillicons.dev/icons?i=linux,git,python,html,css,flask,vscode,github,aws" />
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,grafana" /><br>
 </div>
 
 <br/>
@@ -47,6 +47,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tahaSumeer)](https://git.io/streak-stats)
+
+    [![GitHub Streak](https://streak-stats.demolab.com?user=TahaSumeer&theme=neon-palenight)](https://git.io/streak-stats)
   <img width=390 src="https://github-readme-streak-stats-tahasumeer.vercel.app/?user=tahasumeer&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-tahasumeer.vercel.app/api?username=tahasumeer&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
