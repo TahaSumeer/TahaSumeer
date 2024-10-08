@@ -1,6 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tahasumeer.tahasumeer" />
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Black&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=8A2BE2&lines=Hello!+👋;I'm+Taha+Sumeer!;" />
 </h1>
@@ -34,11 +31,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages&Frameworks&Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,bash,docker,html,css,vscode,github,linux,kubernetes,git,r" />
+    <img src="https://skillicons.dev/icons?i=jenkins,python,terraform,ansible,flask" /><br>
 </div>
 
 <br/>
