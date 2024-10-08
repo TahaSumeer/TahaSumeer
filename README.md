@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages&Frameworks&Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,git,python,html,css,flask,vscode,github,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,git,python,html,css,flask,vscode,github,aws" /><br>
     <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,ansible,grafana" /><br>
 </div>
 
@@ -56,8 +56,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasumeer&" alt="tahasumeer" /></p>
 
 </div>
-
-<br/><br/>
 
 <hr/>
 
