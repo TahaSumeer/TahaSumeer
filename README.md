@@ -44,8 +44,8 @@
 <h2 align="center">Stats ⚡</h2>
 <br>
 <div align=center>
-    
     [![GitHub Streak](https://streak-stats.demolab.com?user=TahaSumeer)](https://git.io/streak-stats)
+    
 </div>
 
 <hr/>
