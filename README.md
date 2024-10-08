@@ -41,13 +41,10 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats ⚡</h2>
 <br>
 <div align=center>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TahaSumeer&theme=neon-palenight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=TahaSumeer)](https://git.io/streak-stats)
 </div>
 
 <hr/>
