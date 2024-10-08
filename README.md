@@ -48,6 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasumeer&" alt="tahasumeer" /></p>
     
-</div>
-<hr/>
 
