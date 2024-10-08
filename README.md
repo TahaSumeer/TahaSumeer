@@ -49,8 +49,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=TahaSumeer&theme=neon-palenight)](https://git.io/streak-stats)
 
   <br/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaSumeer)]
-  <img width=325 align="center" src="https://github-readme-stats-TahaSumeer.vercel.app/api/top-langs/?username=TahaSumeer&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahasumeer&show_icons=true&locale=en&layout=compact" alt="tahasumeer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahasumeer&show_icons=true&locale=en" alt="tahasumeer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasumeer&" alt="tahasumeer" /></p>
+
 </div>
 
 <br/><br/>
