@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Black&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&color=8A2BE2&lines=Hello!+👋;I'm+Taha+Sumeer!;Welcome+to+My+GitHub+Profile!+😄;Exploring+DevOps+%26+Cloud!;🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Black&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&color=8A2BE2&lines=Hello!+👋;I'm+Taha+Sumeer!; Welcome+to+My+GitHub+Profile!+😄;Exploring+DevOps+%26+Cloud!;🚀" />
 </h1>
 
 
@@ -12,26 +12,24 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Currently learning and applying **DevOps**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 📚 Constantly learning new **tools** and **techniques**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **DevOps**, **Python**, or **cloud architecture**.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Erling Haaland playing Clash of clans lol**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:itahasumeeer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/taha-sumeer-uz-zaman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+ 
 </div>
 
  <hr/>
