@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tahasumeer.tahasumeer" />
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Black&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=8A2BE2&lines=Hello!+👋;I'm+Taha+Sumeer!;Let's+Explore+DevOps+%26+Cloud!;🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Black&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=8A2BE2&lines=Hello!+👋;I'm+Taha+Sumeer!;" />
 </h1>
 
 
