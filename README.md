@@ -43,14 +43,13 @@
 
 <h2 align="center">Stats ⚡</h2>
 <br>
-<div align=center>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=TahaSumeer)](https://git.io/streak-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahasumeer&show_icons=true&locale=en&layout=compact" alt="tahasumeer" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasumeer&" alt="tahasumeer" /></p>
 
