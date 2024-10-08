@@ -48,13 +48,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TahaSumeer&theme=neon-palenight)](https://git.io/streak-stats)
 
-  <br/>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahasumeer&show_icons=true&locale=en&layout=compact" alt="tahasumeer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahasumeer&show_icons=true&locale=en" alt="tahasumeer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasumeer&" alt="tahasumeer" /></p>
-
 </div>
 
 <hr/>
