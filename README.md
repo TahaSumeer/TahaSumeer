@@ -43,9 +43,7 @@
 
 <h2 align="center">Stats ⚡</h2>
 
-<p align="center">
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasumeer&" alt="tahasumeer" /></p>
     
-
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasumeer&" alt="tahasumeer" /></a>
+</div>
