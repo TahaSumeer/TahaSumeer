@@ -2,8 +2,9 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&color=58A6FF&lines=Hello!+👋;I'm+Taha+Sumeer!;Welcome+to+My+GitHub+Profile!+😄;Exploring+DevOps+%26+Python!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&color=8A2BE2&lines=Hello!+👋;I'm+Taha+Sumeer!;Welcome+to+My+GitHub+Profile!+😄;Exploring+DevOps+%26+Cloud!;🚀" />
 </h1>
+
 
 <h3 align="center">Passionate about technology, particularly in the areas of DevOps and Cloud.</h3>
 
