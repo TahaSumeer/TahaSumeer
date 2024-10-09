@@ -15,7 +15,7 @@
 
 💬 Ask me about **DevOps**, **Python**, or **cloud architecture**.
 
-⚡ Fun fact **Erling Haaland playing Clash of clans lol**
+⚡ Fun fact **Erling Haaland play Clash of clans lol**
 
  </div>
  
